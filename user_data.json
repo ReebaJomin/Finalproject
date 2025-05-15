@@ -1,0 +1,38 @@
+{
+  "1": {
+    "quizzes_taken": 1,
+    "words_learned": 0,
+    "current_level": "easy",
+    "quiz_history": [
+      {
+        "date": "2025-05-15T10:25:42.141452",
+        "score_percentage": 40.0,
+        "difficulty": "easy",
+        "correct_answers": 2,
+        "total_questions": 5
+      }
+    ],
+    "learning_sessions": [],
+    "weak_areas": {},
+    "words_practiced": [],
+    "last_active": "2025-05-15T10:25:42.141452"
+  },
+  "1": {
+    "quizzes_taken": 1,
+    "words_learned": 0,
+    "current_level": "easy",
+    "quiz_history": [
+      {
+        "date": "2025-05-15T12:13:04.012941",
+        "score_percentage": 20.0,
+        "difficulty": "easy",
+        "correct_answers": 1,
+        "total_questions": 5
+      }
+    ],
+    "learning_sessions": [],
+    "weak_areas": {},
+    "words_practiced": [],
+    "last_active": "2025-05-15T12:13:04.011939"
+  }
+}
